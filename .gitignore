@@ -1,2 +1,11 @@
-./migrator
-./migrator/*
+# This is the gitignore file.
+
+# Ignore migrator directory
+migrator/
+
+#Ignore any pycache files
+__pycache__/
+
+#Ignore .env
+.env
+
